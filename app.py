@@ -1,8 +1,5 @@
 import streamlit as st
-import pandas as pd
 from streamlit_calendar import calendar
-from dataclasses import dataclass
-from typing import List
 from dataloader import DataLoader
 
 data_loader=DataLoader()
@@ -77,8 +74,6 @@ with col1:
                         render_section_button(course, sec, source="all", group="all")
 
 # ---------- 周历可视化（streamlit-calendar） ----------
-from datetime import datetime, timedelta
-
 with col2:
     st.subheader("📅 我的课表（Calendar）")
 
@@ -92,15 +87,9 @@ with col2:
 
     for course, sec in st.session_state.selected_sections:
         for t in sec.times:
-            # 计算当天日期
-            # day_offset = t.weekday - 1  # 1=Mon -> 0
-            # date = base_monday + timedelta(days=day_offset)
-
             start_hour, start_min = divmod(t.start_min, 60)
             end_hour, end_min = divmod(t.end_min, 60)
 
-            # start_iso = f"{date.strftime('%Y-%m-%d')}T{start_hour:02}:{start_min:02}:00"
-            # end_iso = f"{date.strftime('%Y-%m-%d')}T{end_hour:02}:{end_min:02}:00"
 
             fc_day = (t.weekday % 7)  # Sunday=0
             start_time = f"{start_hour:02}:{start_min:02}:00"
