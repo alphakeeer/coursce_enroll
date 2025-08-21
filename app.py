@@ -167,7 +167,7 @@ with col2:
     # --- 已选课程面板（位于课表下方） ---
     st.subheader("✅ 已选课程")
     if st.session_state.selected_sections:
-        total_credits = sum(getattr(course, "credit", 0) for course, _ in st.session_state.selected_sections)
+        total_credits = sum(float(getattr(course, "credits", 0) or getattr(course, "credit", 0) or 0) for course, _ in st.session_state.selected_sections)
         st.markdown(f"**总学分: {total_credits}**")
         for i, (course, sec) in enumerate(st.session_state.selected_sections):
             if st.button(f"{course.id} | {sec.id} | {sec.real_time} | {sec.instructor}", key=f"remove_{course.id}_{sec.id}"):
