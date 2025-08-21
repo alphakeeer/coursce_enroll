@@ -1,0 +1,377 @@
+{
+    "DSAA 1001 - Introduction to Data Science and Analytics (3 units)": {
+        "Lecture": {
+            "L01 (6372)": [
+                "MoWe 04:30PM - 05:50PM",
+                "Rm 102, W4",
+                "LI, LeiWANG, WeiZHANG, Yongqi",
+                "75Quota/Enrol/AvailGZ Students: 67/0/67",
+                "0",
+                "75",
+                "0"
+            ]
+        },
+        "Lab": {
+            "LA01 (6373)": [
+                "Fr 04:30PM - 05:20PM",
+                "Rm 101, E1",
+                "LI, LeiWANG, WeiZHANG, Yongqi",
+                "75",
+                "0",
+                "75",
+                "0"
+            ]
+        }
+    },
+    "DSAA 2011 - Machine Learning (3 units)": {
+        "Lecture": {
+            "L01 (6374)": [
+                "Mo 06:00PM - 08:50PM",
+                "Rm 102, E4",
+                "ZHONG, Zixin",
+                "75Quota/Enrol/AvailGZ Students: 67/0/67",
+                "0",
+                "75",
+                "0"
+            ]
+        },
+        "Lab": {
+            "LA01 (6375)": [
+                "Th 07:30PM - 08:20PM",
+                "Rm 101, W1",
+                "ZHONG, Zixin",
+                "75",
+                "0",
+                "75",
+                "0"
+            ]
+        }
+    },
+    "DSAA 2012 - Deep Learning (3 units)": {
+        "Lecture": {
+            "L01 (6376)": [
+                "MoWe 04:30PM - 05:50PM",
+                "Rm 149, E1",
+                "GUO, Zhijiang",
+                "60Quota/Enrol/AvailGZ Students: 54/0/54",
+                "0",
+                "60",
+                "0"
+            ]
+        },
+        "Lab": {
+            "LA01 (6377)": [
+                "Fr 04:30PM - 05:20PM",
+                "Rm 149, E1",
+                "GUO, Zhijiang",
+                "60",
+                "0",
+                "60",
+                "0"
+            ]
+        }
+    },
+    "DSAA 2043 - Design and Analysis of Algorithms (3 units)": {
+        "Lecture": {
+            "L01 (6378)": [
+                "MoWe 09:00AM - 10:20AM",
+                "Rm 101, E1",
+                "ZHANG, Yanlin",
+                "75Quota/Enrol/AvailGZ Students: 67/0/67",
+                "0",
+                "75",
+                "0"
+            ],
+            "L02 (6380)": [
+                "TuTh 04:30PM - 05:50PM",
+                "Rm 102, W4",
+                "LU, Shangqi",
+                "75Quota/Enrol/AvailGZ Students: 67/0/67",
+                "0",
+                "75",
+                "0"
+            ]
+        },
+        "Lab": {
+            "LA01 (6379)": [
+                "Fr 12:00PM - 12:50PM",
+                "Rm 101, E1",
+                "ZHANG, Yanlin",
+                "75",
+                "0",
+                "75",
+                "0"
+            ],
+            "LA02 (6381)": [
+                "Fr 04:30PM - 05:20PM",
+                "Rm 102, W4",
+                "LU, Shangqi",
+                "75",
+                "0",
+                "75",
+                "0"
+            ]
+        }
+    },
+    "DSAA 2044 - Data Science Project (3 units)": {
+        "Lecture": {
+            "L01 (6382)": [
+                "TuTh 01:30PM - 02:50PM",
+                "Rm 122, E1",
+                "DING, Zishuo",
+                "60Quota/Enrol/AvailGZ Students: 54/0/54",
+                "0",
+                "60",
+                "0"
+            ]
+        },
+        "Lab": {
+            "LA01 (6383)": [
+                "Fr 01:30PM - 02:20PM",
+                "Rm 122, E1",
+                "DING, Zishuo",
+                "60",
+                "0",
+                "60",
+                "0"
+            ]
+        }
+    },
+    "DSAA 2088 - Mathematics for Data Science (3 units)": {
+        "Lecture": {
+            "L01 (6384)": [
+                "MoWe 10:30AM - 11:50AM",
+                "Rm 148, E1",
+                "DING, NingningWANG, Wenjia",
+                "60Quota/Enrol/AvailGZ Students: 54/0/54",
+                "0",
+                "60",
+                "0"
+            ]
+        },
+        "Tutorial": {
+            "T01 (6385)": [
+                "Th 12:30PM - 01:20PM",
+                "Rm 147, E1",
+                "DING, NingningWANG, Wenjia",
+                "60",
+                "0",
+                "60",
+                "0"
+            ]
+        }
+    },
+    "DSAA 3032 - Introduction to High-Performance and Parallel Computing (3 units)": {
+        "Lecture": {
+            "L01 (6413)": [
+                "MoWe 12:00PM - 01:20PM",
+                "Rm 148, E1",
+                "LUO, Qiong",
+                "48Quota/Enrol/AvailGZ Students: 43/0/43",
+                "0",
+                "48",
+                "0"
+            ]
+        },
+        "Lab": {
+            "LA01 (6414)": [
+                "Fr 10:30AM - 11:20AM",
+                "Rm 227, E1",
+                "LUO, Qiong",
+                "48",
+                "0",
+                "48",
+                "0"
+            ]
+        }
+    },
+    "DSAA 3051 - Introduction to Natural Language Processing and Knowledge Engineering (3 units)": {
+        "Lecture": {
+            "L01 (6415)": [
+                "TuTh 06:00PM - 07:20PM",
+                "Rm 101, W1",
+                "WEI, Jiaheng",
+                "60Quota/Enrol/AvailGZ Students: 54/0/54",
+                "0",
+                "60",
+                "0"
+            ]
+        },
+        "Tutorial": {
+            "T01 (6416)": [
+                "Fr 03:00PM - 03:50PM",
+                "Rm 122, E1",
+                "WEI, Jiaheng",
+                "60",
+                "0",
+                "60",
+                "0"
+            ]
+        }
+    },
+    "DSAA 3055 - Data Privacy and Security (3 units)": {
+        "Lecture": {
+            "L01 (6417)": [
+                "TuTh 03:00PM - 04:20PM",
+                "Rm 149, E1",
+                "HE, Xinlei",
+                "60Quota/Enrol/AvailGZ Students: 54/0/54",
+                "0",
+                "60",
+                "0"
+            ]
+        },
+        "Lab": {
+            "LA01 (6418)": [
+                "Fr 09:00AM - 09:50AM",
+                "Rm 148, E1",
+                "HE, Xinlei",
+                "60",
+                "0",
+                "60",
+                "0"
+            ]
+        }
+    },
+    "DSAA 5002 - Data Mining and Knowledge Discovery in Data Science (3 units)": {
+        "Lecture": {
+            "L01 (6136)": [
+                "Mo 03:00PM - 05:50PM",
+                "Rm 102, E4",
+                "LI, Jia",
+                "100",
+                "0",
+                "100",
+                "0"
+            ]
+        }
+    },
+    "DSAA 5003 - Automatic Machine Learning (3 units)": {
+        "Lecture": {
+            "L01 (6138)": [
+                "Th 09:00AM - 11:50AM",
+                "Rm 149, E1",
+                "WEN, Zeyi",
+                "50",
+                "0",
+                "50",
+                "0"
+            ]
+        }
+    },
+    "DSAA 5012 - Advanced Database Management for Data Science (3 units)": {
+        "Lecture": {
+            "L01 (6139)": [
+                "Fr 01:30PM - 04:20PM",
+                "Rm 228, E2",
+                "LI, Lei",
+                "50",
+                "0",
+                "50",
+                "0"
+            ]
+        }
+    },
+    "DSAA 5020 - Foundation of Data Science and Analytics (3 units)": {
+        "Lecture": {
+            "L01 (6141)": [
+                "Tu 01:30PM - 04:20PM",
+                "Lecture Hall B",
+                "TANG, Jing",
+                "100",
+                "0",
+                "100",
+                "0"
+            ]
+        }
+    },
+    "DSAA 5024 - Data Exploration and Visualization (3 units)": {
+        "Lecture": {
+            "L01 (6143)": [
+                "Th 03:00PM - 05:50PM",
+                "Rm 102, E4",
+                "ZENG, Wei",
+                "50",
+                "0",
+                "50",
+                "0"
+            ]
+        }
+    },
+    "DSAA 6100 - Practical Lab Course (3 units)": {
+        "Lecture": {
+            "L01 (6150)": [
+                "Mo 09:00AM - 10:20AM",
+                "Rm 101, W1",
+                "LUO, Yuyu",
+                "100",
+                "0",
+                "100",
+                "0"
+            ]
+        },
+        "Lab": {
+            "LA01 (6151)": [
+                "MoWe 10:30AM - 01:20PM",
+                "Rm 101, W1",
+                "LUO, Yuyu",
+                "100",
+                "0",
+                "100",
+                "0"
+            ]
+        }
+    },
+    "DSAA 6101 - Data Science and Analytics Program Seminar I (0 units)": {
+        "Lecture": {
+            "L01 (6144)": [
+                "Tu 11:00AM - 11:50AM",
+                "Lecture Hall C",
+                "TANG, Nan",
+                "120",
+                "0",
+                "120",
+                "0"
+            ]
+        }
+    },
+    "DSAA 6920 - Industry Internship Ⅰ (2 units)": {
+        "Recitation": {
+            "R01 (6152)": [
+                "TBA",
+                "No room required",
+                "TBA",
+                "50",
+                "0",
+                "50",
+                "0"
+            ]
+        }
+    },
+    "DSAA 6990 - MPhil Thesis Research (0 units)": {
+        "Recitation": {
+            "R01 (6040)": [
+                "TBA",
+                "No room required",
+                "TBA",
+                "100",
+                "57",
+                "43",
+                "0"
+            ]
+        }
+    },
+    "DSAA 7990 - Doctoral Thesis Research (0 units)": {
+        "Recitation": {
+            "R01 (6041)": [
+                "TBA",
+                "No room required",
+                "TBA",
+                "100",
+                "24",
+                "76",
+                "0"
+            ]
+        }
+    }
+}

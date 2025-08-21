@@ -1,0 +1,50 @@
+course_code,course_title,credits,course_type
+UFUG 1102,Calculus I,3,Fundamental
+UFUG 1103,Calculus II,3,Fundamental
+UFUG 1105,Honors Calculus I,3,Fundamental
+UFUG 1106,Honors Calculus II,3,Fundamental
+UFUG 1301,General Chemistry,3,Fundamental
+UFUG 1302,Honors Chemistry I,3,Fundamental
+UFUG 1403,Introduction to Biotechnology,3,Fundamental
+UFUG 1501,General Physics I,3,Fundamental
+UFUG 1502,General Physics II,3,Fundamental
+UFUG 1503,Honors General Physics I,3,Fundamental
+UFUG 1504,Honors General Physics II,3,Fundamental
+UFUG 1601,Introduction to Computer Science,3,Fundamental
+UFUG 1602,Introduction to Java Computing,3,Fundamental
+UFUG 1801,Principles of Economics,3,Fundamental
+UFUG 2101,Introduction to Multivariable Calculus,3,Fundamental
+UFUG 2102,Matrix Algebra and Applications,3,Fundamental
+UFUG 2103,Linear Algebra,3,Fundamental
+UFUG 2601,C++ Programming,4,Fundamental
+DSAA 1001,Introduction to Data Science and Analytics,3,Major Required
+DSAA 1085,Probability and Statistics,4,Major Required
+DSAA 2011,Machine Learning,3,Major Required
+SMMG 2030,Introduction to Advanced Manufacturing,3,Major Required
+AIAA 2205,Introduction to Artificial Intelligence,3,Major Required
+SMMG 2640,Engineering Materials,3,Major Required
+SMMG 3000,Industrial Training,0,Major Required
+SMMG 3010,Industrial Experience,0,Major Required
+SMMG 3020,Introduction to Additive Manufacturing,3,Major Required
+SMMG 3030,Prescriptive Analytics,3,Major Required
+DLED 3040,English Communication I for Systems Hub Programs,3,Major Required
+SMMG 3040,Introduction to Numerical Controlled Machining,3,Major Required
+SMMG 3050,Industrial Data Analytics,3,Major Required
+SMMG 3060,Microelectromechanical Systems: Design and Fabrication,3,Major Required
+SMMG 3080,Mechanisms of Machinery,3,Major Required
+SMMG 3690,CAD/CAM,3,Major Required
+SMMG 3810,Smart Manufacturing Laboratory I,2,Major Required
+SMMG 3820,Smart Manufacturing Laboratory II,2,Major Required
+SMMG 4010,Integrated Production Systems,3,Major Required
+SMMG 4020,Manufacturing Processes and Systems,4,Major Required
+SMMG 4030,System Simulation,3,Major Required
+DLED 4040,English Communication II for Systems Hub Programs,3,Major Required
+SMMG 4040,Fundamentals of Metal Processing,3,Major Required
+SMMG 4610,Product Design and Lifecycle Management,3,Major Required
+SMMG 4620,Service Engineering and Management,3,Major Required
+SMMG 4630,Design of Logistics and Manufacturing Systems,3,Major Required
+SMMG 4640,Data Driven Supply Chain Management,3,Major Required
+SMMG 4650,Introduction to Precision Engineering,3,Major Required
+SMMG 4660,Numerical Methods in Engineering,3,Major Required
+SMMG 4901,Final Year Thesis,6,Major Required
+SMMG 4960,Final Year Capstone Project,6,Major Required

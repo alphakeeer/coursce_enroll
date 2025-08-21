@@ -1,0 +1,626 @@
+{
+    "UCUG 1000 - Cognitive Foundations of University Education: Critical Thinking and Data Literacy (3 units)": {
+        "Lecture": {
+            "L01 (6422)": [
+                "TBA",
+                "TBA",
+                "HOU, YunKUO, YI LUNGLI, RanXIONG, WanruYU, LiuqianZHANG, XuningZUO, Ruiting",
+                "300",
+                "0",
+                "300",
+                "0"
+            ]
+        }
+    },
+    "UCUG 1001 - Behavioral Foundations of University Education: Habits, Mindsets, and Wellness (3 units)": {
+        "Lecture": {
+            "L01 (6457)": [
+                "Fr 09:00AM - 10:20AM",
+                "Lecture Hall B",
+                "KUO, YI LUNGLUO, MoxuanREN, ZHIJUN",
+                "500",
+                "486",
+                "14",
+                "0"
+            ]
+        }
+    },
+    "UCUG 1050 - Intensive English Language for University Studies (3 units)": {
+        "Tutorial": {
+            "T01 (6423)": [
+                "MoWe 04:30PM - 05:50PM",
+                "Rm 102, E1",
+                "LI, Bing",
+                "26",
+                "29",
+                "0",
+                "0"
+            ],
+            "T02 (6424)": [
+                "TuTh 12:00PM - 01:20PM",
+                "Rm 102, E1",
+                "LI, Bing",
+                "26",
+                "28",
+                "0",
+                "0"
+            ]
+        }
+    },
+    "UCUG 1051 - English Language for University Studies (3 units)": {
+        "Tutorial": {
+            "T01 (6425)": [
+                "MoWe 10:30AM - 11:50AM",
+                "Rm 150, E1",
+                "LIU, Yalan",
+                "26",
+                "25",
+                "1",
+                "0"
+            ],
+            "T02 (6426)": [
+                "TuTh 10:30AM - 11:50AM",
+                "Rm 150, E1",
+                "CHEN, Zehan",
+                "26",
+                "25",
+                "1",
+                "0"
+            ],
+            "T03 (6427)": [
+                "MoWe 03:00PM - 04:20PM",
+                "Rm 150, E1",
+                "LIU, Yalan",
+                "26",
+                "25",
+                "1",
+                "0"
+            ],
+            "T04 (6428)": [
+                "MoWe 04:30PM - 05:50PM",
+                "Rm 202, W4",
+                "LIU, Yalan",
+                "26",
+                "25",
+                "1",
+                "0"
+            ],
+            "T05 (6429)": [
+                "TuTh 01:30PM - 02:50PM",
+                "Rm 222, W1",
+                "CHEN, Zehan",
+                "26",
+                "25",
+                "1",
+                "0"
+            ],
+            "T06 (6430)": [
+                "TuTh 03:00PM - 04:20PM",
+                "Rm 222, W1",
+                "CHEN, Zehan",
+                "26",
+                "25",
+                "1",
+                "0"
+            ],
+            "T07 (6431)": [
+                "TuTh 04:30PM - 05:50PM",
+                "Rm 222, W1",
+                "JURASZEK, Dawid",
+                "26",
+                "25",
+                "1",
+                "0"
+            ],
+            "T08 (6432)": [
+                "WeFr 01:30PM - 02:50PM",
+                "Rm 102, E1",
+                "ZHANG, TIEFU",
+                "26",
+                "24",
+                "2",
+                "0"
+            ],
+            "T09 (6433)": [
+                "MoWe 12:00PM - 01:20PM",
+                "Rm 102, E1",
+                "HUANG, Yuqing",
+                "26",
+                "24",
+                "2",
+                "0"
+            ],
+            "T10 (6434)": [
+                "MoWe 06:00PM - 07:20PM",
+                "Rm 202, W4",
+                "HUANG, Yuqing",
+                "26",
+                "24",
+                "2",
+                "0"
+            ],
+            "T11 (6435)": [
+                "TuTh 06:00PM - 07:20PM",
+                "Rm 222, W1",
+                "JURASZEK, Dawid",
+                "26",
+                "23",
+                "3",
+                "0"
+            ],
+            "T12 (6436)": [
+                "MoWe 09:00AM - 10:20AM",
+                "Rm 223, W1",
+                "LIAO, Simei",
+                "26",
+                "23",
+                "3",
+                "0"
+            ],
+            "T13 (6437)": [
+                "TuTh 09:00AM - 10:20AM",
+                "Rm 150, E1",
+                "JURASZEK, Dawid",
+                "26",
+                "24",
+                "2",
+                "0"
+            ],
+            "T14 (6438)": [
+                "TuTh 12:00PM - 01:20PM",
+                "Rm 150, E1",
+                "JURASZEK, Dawid",
+                "26",
+                "24",
+                "2",
+                "0"
+            ],
+            "T15 (6439)": [
+                "WeFr 01:30PM - 02:50PM",
+                "Rm 201, E1",
+                "REN, ZHIJUN",
+                "26",
+                "24",
+                "2",
+                "0"
+            ],
+            "T16 (6440)": [
+                "WeFr 04:30PM - 05:50PM",
+                "Rm 201, E1",
+                "REN, ZHIJUN",
+                "26",
+                "24",
+                "2",
+                "0"
+            ]
+        }
+    },
+    "UCUG 1070 - Elementary Listening and Speaking of Putonghua (3 units)": {
+        "Tutorial": {
+            "T01 (6467)": [
+                "MoWe 06:00PM - 07:20PM",
+                "Rm 205, C7 Library",
+                "HAO, Tun",
+                "25",
+                "0",
+                "25",
+                "0"
+            ]
+        }
+    },
+    "UCUG 1077 - Chinese Communication Essentials: Written and Oral (3 units)": {
+        "Lecture": {
+            "L01 (6470)": [
+                "Mo 01:30PM - 02:50PM",
+                "Rm 228, E2",
+                "HAO, Tun",
+                "50Quota/Enrol/AvailYear 3 UG Students: 33/0/33",
+                "0",
+                "50",
+                "0"
+            ],
+            "L02 (6471)": [
+                "MoWe 03:00PM - 04:20PM",
+                "Rm 228, E2",
+                "HAO, Tun",
+                "50Quota/Enrol/AvailYear 3 UG Students: 33/0/33",
+                "0",
+                "50",
+                "0"
+            ],
+            "L03 (6472)": [
+                "MoWe 04:30PM - 05:50PM",
+                "Rm 147, E1",
+                "LUO, Moxuan",
+                "50Quota/Enrol/AvailYear 3 UG Students: 33/0/33",
+                "0",
+                "50",
+                "0"
+            ],
+            "L04 (6473)": [
+                "MoWe 09:00AM - 10:20AM",
+                "Rm 148, E1",
+                "LUO, Moxuan",
+                "50Quota/Enrol/AvailYear 3 UG Students: 33/0/33",
+                "0",
+                "50",
+                "0"
+            ]
+        }
+    },
+    "UCUG 1500 - Arts and Creativity (3 units)": {
+        "Lecture": {
+            "L01 (6468)": [
+                "Fr 09:00AM - 10:50AM",
+                "Rm 101, E4",
+                "ZUO, Tengjia",
+                "40",
+                "0",
+                "40",
+                "0"
+            ]
+        },
+        "Lab": {
+            "LA01 (6469)": [
+                "Fr 11:00AM - 11:50AM",
+                "Rm 101, E4",
+                "ZUO, Tengjia",
+                "40",
+                "0",
+                "40",
+                "0"
+            ]
+        }
+    },
+    "UCUG 1502 - Video Art and Media Production (3 units)": {
+        "Lecture": {
+            "L01 (6475)": [
+                "Th 09:00AM - 11:50AM",
+                "Rm 227, E1",
+                "VON CHAMIER-WAITE, CLEA THERESA",
+                "20",
+                "0",
+                "20",
+                "0"
+            ]
+        }
+    },
+    "UCUG 1504 - The Art of Public Speaking (3 units)": {
+        "Lecture": {
+            "L01 (6476)": [
+                "TuTh 06:00PM - 07:20PM",
+                "Rm 223, W1",
+                "XING, Qingqing",
+                "20",
+                "0",
+                "20",
+                "0"
+            ]
+        }
+    },
+    "UCUG 1505 - Creative Coding and Interactive Art (3 units)": {
+        "Lecture": {
+            "L01 (6488)": [
+                "Tu 09:00AM - 11:50AM",
+                "Rm 101, W4",
+                "ZHANG, Mei",
+                "24",
+                "0",
+                "24",
+                "0"
+            ],
+            "L02 (6489)": [
+                "Tu 03:00PM - 05:50PM",
+                "Rm 101, W4",
+                "ZHANG, Mei",
+                "24",
+                "0",
+                "24",
+                "0"
+            ],
+            "L03 (6490)": [
+                "Tu 12:00PM - 02:50PM",
+                "Rm 101, E4",
+                "GRIMSHAW-AAGAARD, MARK NICHOLAS",
+                "30",
+                "0",
+                "30",
+                "0"
+            ],
+            "L04 (6491)": [
+                "We 10:30AM - 01:20PM",
+                "Rm 101, W4",
+                "PAPATHEODOROU, Theodoros",
+                "30",
+                "0",
+                "30",
+                "0"
+            ]
+        }
+    },
+    "UCUG 1506 - Enjoyment of Classical Music (3 units)": {
+        "Lecture": {
+            "L01 (6492)": [
+                "Fr 12:00PM - 02:50PM",
+                "Rm 205, C7 Library",
+                "FANG, Bo",
+                "30",
+                "0",
+                "30",
+                "0"
+            ],
+            "L02 (6493)": [
+                "Fr 03:00PM - 05:50PM",
+                "Rm 205, C7 Library",
+                "FANG, Bo",
+                "30",
+                "0",
+                "30",
+                "0"
+            ]
+        }
+    },
+    "UCUG 1507 - Figure Drawing in Motion (3 units)": {
+        "Lecture": {
+            "L01 (6494)": [
+                "Mo 06:00PM - 08:50PM",
+                "Room 521H VR Room, W1",
+                "ZHANG, Junjie",
+                "20",
+                "0",
+                "20",
+                "0"
+            ]
+        }
+    },
+    "UCUG 1600 - Intercultural Communication (3 units)": {
+        "Lecture": {
+            "L01 (6495)": [
+                "We 01:30PM - 04:20PM",
+                "Rm 202, E3",
+                "MA, JinyuanZHU, Junhua",
+                "30",
+                "0",
+                "30",
+                "0"
+            ],
+            "L02 (6496)": [
+                "Th 12:00PM - 02:50PM",
+                "Rm 233, W1",
+                "LUO, MoxuanREN, ZHIJUN",
+                "30",
+                "0",
+                "30",
+                "0"
+            ],
+            "L03 (6497)": [
+                "We 01:30PM - 04:20PM",
+                "Rm 102, W1",
+                "LYU, DongyeZHU, Junhua",
+                "30",
+                "0",
+                "30",
+                "0"
+            ]
+        }
+    },
+    "UCUG 1603 - Science-Fiction Storytelling (3 units)": {
+        "Lecture": {
+            "L01 (6498)": [
+                "We 04:30PM - 05:50PM",
+                "Rm 122, E1",
+                "YIP, David Kei Man",
+                "63",
+                "0",
+                "63",
+                "0"
+            ]
+        },
+        "Tutorial": {
+            "T01 (6499)": [
+                "Th 03:00PM - 04:20PM",
+                "Rm 101, W4",
+                "YIP, David Kei Man",
+                "21",
+                "0",
+                "21",
+                "0"
+            ],
+            "T02 (6500)": [
+                "Th 04:30PM - 05:50PM",
+                "Rm 101, W4",
+                "YIP, David Kei Man",
+                "21",
+                "0",
+                "21",
+                "0"
+            ],
+            "T03 (6501)": [
+                "Fr 03:00PM - 04:20PM",
+                "Rm 101, W4",
+                "YIP, David Kei Man",
+                "21",
+                "0",
+                "21",
+                "0"
+            ]
+        }
+    },
+    "UCUG 1702 - Introduction to Materials Science and Applications (3 units)": {
+        "Lecture": {
+            "L01 (6507)": [
+                "We 06:00PM - 08:50PM",
+                "Rm 102, W4",
+                "TAN, Chee KeongYUAN, RongfengZHU, Guoyi",
+                "50",
+                "0",
+                "50",
+                "0"
+            ]
+        }
+    },
+    "UCUG 1800 - Technology and Innovation: Social and Business Perspectives (3 units)": {
+        "Lecture": {
+            "L01 (6508)": [
+                "Th 03:00PM - 05:50PM",
+                "Rm 102, W1",
+                "GUO, Jiao",
+                "40",
+                "0",
+                "40",
+                "0"
+            ],
+            "L02 (6509)": [
+                "Th 09:00AM - 11:50AM",
+                "Rm 101, W4",
+                "GUMBER, ANURAG",
+                "40",
+                "0",
+                "40",
+                "0"
+            ]
+        }
+    },
+    "UCUG 1804 - Population and Development in China (3 units)": {
+        "Lecture": {
+            "L01 (6684)": [
+                "Tu 03:00PM - 05:50PM",
+                "Rm 101, W1",
+                "LAN, ZhiyongLYU, DongyeREN, ZHIJUNXIONG, Wanru",
+                "60",
+                "0",
+                "60",
+                "0"
+            ]
+        }
+    },
+    "UCUG 1807 - Thinking like an Economist I: Microeconomics (3 units)": {
+        "Lecture": {
+            "L01 (6511)": [
+                "Mo 10:30AM - 12:50PM",
+                "Rm 228, E2",
+                "ZHANG, Yi",
+                "60",
+                "0",
+                "60",
+                "0"
+            ],
+            "L02 (6512)": [
+                "We 10:30AM - 12:50PM",
+                "Rm 101, E1",
+                "ZHANG, Guang",
+                "60",
+                "0",
+                "60",
+                "0"
+            ]
+        },
+        "Tutorial": {
+            "T01 (6513)": [
+                "Tu 07:30PM - 08:20PM",
+                "Rm 101, W1",
+                "ZHANG, Yi",
+                "60",
+                "0",
+                "60",
+                "0"
+            ],
+            "T02 (6514)": [
+                "Th 07:30PM - 08:20PM",
+                "Lecture Hall C",
+                "ZHANG, Guang",
+                "60",
+                "0",
+                "60",
+                "0"
+            ]
+        }
+    },
+    "UCUG 1809 - Understanding Yourself in University: A Sociological Perspective (3 units)": {
+        "Lecture": {
+            "L01 (6683)": [
+                "Tu 12:00PM - 02:50PM",
+                "Rm 233, W1",
+                "MA, JinyuanZHU, Junhua",
+                "30",
+                "0",
+                "30",
+                "0"
+            ]
+        }
+    },
+    "UCUG 1900 - Chemistry in Everyday Life (3 units)": {
+        "Lecture": {
+            "L01 (6528)": [
+                "Tu 09:00AM - 11:50AM",
+                "Rm 149, E1",
+                "HE, QiaoJI, Qixing",
+                "50",
+                "0",
+                "50",
+                "0"
+            ]
+        }
+    },
+    "UCUG 1905 - The Impact and Value of Technology Innovation (3 units)": {
+        "Lecture": {
+            "L01 (6529)": [
+                "Fr 09:00AM - 11:50AM",
+                "Rm 150, E1",
+                "CAI, Yi",
+                "40",
+                "0",
+                "40",
+                "0"
+            ]
+        }
+    },
+    "UCUG 1907 - Design Thinking for Health Innovation (3 units)": {
+        "Lecture": {
+            "L01 (6530)": [
+                "MoWe 09:00AM - 10:20AM",
+                "Rm 202, E3",
+                "XU, JUNYU",
+                "30",
+                "0",
+                "30",
+                "0"
+            ]
+        }
+    },
+    "UCUG 2603 - East Asian Popular Music (3 units)": {
+        "Lecture": {
+            "L01 (6531)": [
+                "Mo 10:30AM - 01:20PM",
+                "Rm 205, C7 Library",
+                "FANG, BoREN, Shaoren",
+                "30",
+                "0",
+                "30",
+                "0"
+            ],
+            "L02 (6532)": [
+                "Mo 03:00PM - 05:50PM",
+                "Rm 205, C7 Library",
+                "FANG, BoREN, Shaoren",
+                "30",
+                "0",
+                "30",
+                "0"
+            ]
+        }
+    },
+    "UCUG 3801 - Social Inequality and Social Mobility (3 units)": {
+        "Lecture": {
+            "L01 (6533)": [
+                "Fr 06:00PM - 08:50PM",
+                "Rm 101, W4",
+                "ZHANG, ZhuoniZHOU, Muzhi",
+                "30",
+                "0",
+                "30",
+                "0"
+            ]
+        }
+    }
+}

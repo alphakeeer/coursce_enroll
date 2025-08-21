@@ -1,0 +1,45 @@
+course_code,course_title,credits,course_type
+UFUG 1102,Calculus I,3,Fundamental
+UFUG 1103,Calculus II,3,Fundamental
+UFUG 1105,Honors Calculus I,3,Fundamental
+UFUG 1106,Honors Calculus II,3,Fundamental
+UFUG 1301,General Chemistry,3,Fundamental
+UFUG 1302,Honors Chemistry I,3,Fundamental
+UFUG 1401,General Biology I,3,Fundamental
+UFUG 1501,General Physics I,3,Fundamental
+UFUG 1503,Honors General Physics I,3,Fundamental
+UFUG 1601,Introduction to Computer Science,3,Fundamental
+UFUG 2103,Linear Algebra,3,Fundamental
+UFUG 2104,Applied Statistics,3,Fundamental
+UFUG 2601,C++ Programming,4,Fundamental
+UFUG 2602,Data Structure and Algorithm Design,4,Fundamental
+AIAA 1010,Academic Orientation for AI Students,1,Major Required
+DSAA 2011,Machine Learning,3,Major Required
+DSAA 2043,Design and Analysis of Algorithms,3,Major Required
+AIAA 2205,Introduction to Artificial Intelligence,3,Major Required
+AIAA 2290,"Ethics, Privacy and Security in Artificial Intelligence",3,Major Required
+AIAA 2711,Mathematics for AI,3,Major Required
+DLED 3020,English Communication I for Information Hub Programs,3,Major Required
+AIAA 3102,Python Programming for Artificial Intelligence,3,Major Required
+AIAA 3111,Introduction to Data Mining,3,Major Required
+AIAA 3201,Introduction to Computer Vision,3,Major Required
+DLED 4020,English Communication II for Information Hub Programs,3,Major Required
+AIAA 4490,Final Year Capstone Project,6,Major Required
+DSAA 1001,Introduction to Data Science and Analytics,3,Major Elective
+DSAA 2012,Deep Learning,3,Major Elective
+AIAA 2211,Exploring Artificial Intelligence,3,Major Elective
+AIAA 3053,Introduction to Reinforcement Learning,3,Major Elective
+AIAA 3210,Machine Learning and Information Processing for Robotics,3,Major Elective
+AIAA 3225,Learning and Optimization for Artificial Intelligence,3,Major Elective
+AIAA 3511,Operating Systems,3,Major Elective
+AIAA 4051,Introduction to Natural Language Processing,3,Major Elective
+AIAA 4213,Introduction to Bayesian Networks,3,Major Elective
+AIAA 4220,Introduction to Embodied AI,3,Major Elective
+AIAA 4250,Robotic Manipulation and Mobility,3,Major Elective
+AIAA 4255,Machine Learning with Structured Data,3,Major Elective
+AIAA 4330,Introduction to Artificial Intelligence and Big Data in Finance,3,Major Elective
+AIAA 4332,Big Data Mining and Management,3,Major Elective
+AIAA 4432,Statistical Machine Learning,3,Major Elective
+AIAA 4641,Social Information Network Analysis and Engineering,3,Major Elective
+AIAA 4711,Introduction to Advanced Algorithmic Techniques,3,Major Elective
+AIAA 4911,IT Entrepreneurship,3,Major Elective

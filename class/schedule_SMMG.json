@@ -1,0 +1,158 @@
+{
+    "SMMG 2640 - Engineering Materials I (3 units)": {
+        "Lecture": {
+            "L01 (6420)": [
+                "MoWe 03:00PM - 04:20PM",
+                "Rm 102, E1",
+                "YUE, Liang",
+                "30",
+                "0",
+                "30",
+                "0"
+            ]
+        }
+    },
+    "SMMG 3040 - Introduction to Numerical Controlled Machining (3 units)": {
+        "Lecture": {
+            "L01 (6386)": [
+                "TuTh 09:00AM - 10:20AM",
+                "Rm 222, W1",
+                "HU, Pengcheng",
+                "40",
+                "0",
+                "40",
+                "0"
+            ]
+        }
+    },
+    "SMMG 3050 - Industrial Data Analytics (3 units)": {
+        "Lecture": {
+            "L01 (6387)": [
+                "Fr 09:00AM - 11:50AM",
+                "Rm 102, E1",
+                "DU, Juan",
+                "40",
+                "0",
+                "40",
+                "0"
+            ]
+        }
+    },
+    "SMMG 3810 - Smart Manufacturing Laboratory I (2 units)": {
+        "Lab": {
+            "LA01 (6397)": [
+                "We 09:00AM - 11:50AM",
+                "Newton Lab(E3-231C)",
+                "ZHANG, Kaihao",
+                "20",
+                "0",
+                "20",
+                "0"
+            ]
+        }
+    },
+    "SMMG 4030 - System Simulation (3 units)": {
+        "Lecture": {
+            "L01 (6398)": [
+                "Tu 06:00PM - 08:50PM",
+                "Rm 102, W1",
+                "GUO, Daqiang",
+                "30",
+                "0",
+                "30",
+                "0"
+            ]
+        }
+    },
+    "SMMG 4650 - Introduction to Precision Engineering (3 units)": {
+        "Lecture": {
+            "L01 (6421)": [
+                "We 06:00PM - 08:50PM",
+                "Rm 201, W2",
+                "CHEN, Mojun",
+                "30",
+                "0",
+                "30",
+                "0"
+            ]
+        }
+    },
+    "SMMG 5100 - Microelectromechanical Systems (MEMS) Fabrication Technology (3 units)": {
+        "Lecture": {
+            "L01 (6678)": [
+                "MoWe 10:30AM - 11:50AM",
+                "Rm 222, W1",
+                "WANG, Yunda",
+                "30",
+                "0",
+                "30",
+                "0"
+            ]
+        }
+    },
+    "SMMG 5300 - Nanotechnology: Fundamentals and Applications (3 units)": {
+        "Lecture": {
+            "L01 (6271)": [
+                "Mo 06:00PM - 08:50PM",
+                "Rm 201, W2",
+                "CHEN, Mojun",
+                "40",
+                "0",
+                "40",
+                "0"
+            ]
+        }
+    },
+    "SMMG 5400 - Design for Additive Manufacturing (3 units)": {
+        "Lecture": {
+            "L01 (6273)": [
+                "Tu 01:30PM - 04:20PM",
+                "Rm 102, W4",
+                "CAI, Yi",
+                "40Quota/Enrol/AvailMSc(SMMG) Students: 5/0/5",
+                "0",
+                "40",
+                "0"
+            ]
+        }
+    },
+    "SMMG 5500 - Additive Manufacturing Fundamentals (3 units)": {
+        "Lecture": {
+            "L01 (6275)": [
+                "Tu 03:00PM - 05:50PM",
+                "Rm 102, W1",
+                "CUI, Huachen",
+                "30",
+                "0",
+                "30",
+                "0"
+            ]
+        }
+    },
+    "SMMG 6990 - MPhil Thesis Research (0 units)": {
+        "Recitation": {
+            "R01 (6058)": [
+                "TBA",
+                "No room required",
+                "TBA",
+                "50",
+                "10",
+                "40",
+                "0"
+            ]
+        }
+    },
+    "SMMG 7990 - Doctoral Thesis Research (0 units)": {
+        "Recitation": {
+            "R01 (6059)": [
+                "TBA",
+                "No room required",
+                "TBA",
+                "100",
+                "35",
+                "65",
+                "0"
+            ]
+        }
+    }
+}

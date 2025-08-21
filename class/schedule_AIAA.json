@@ -1,0 +1,264 @@
+{
+    "AIAA 1010 - Academic Orientation for AI Students (1 unit)": {
+        "Lecture": {
+            "L01 (6363)": [
+                "01-SEP-2025 - 05-SEP-2025Tu 09:00AM - 09:50AM",
+                "Lecture Hall B",
+                "DAI, Enyan",
+                "155",
+                "0",
+                "155",
+                "0"
+            ]
+        }
+    },
+    "AIAA 2205 - Introduction to Artificial Intelligence (3 units)": {
+        "Lecture": {
+            "L01 (6364)": [
+                "TuTh 01:30PM - 02:50PM",
+                "Rm 149, E1",
+                "LIU, Li",
+                "50",
+                "0",
+                "50",
+                "0"
+            ],
+            "L02 (6365)": [
+                "TuTh 04:30PM - 05:50PM",
+                "Rm 101, E1",
+                "DAI, Enyan",
+                "50",
+                "0",
+                "50",
+                "0"
+            ]
+        }
+    },
+    "AIAA 2290 - Ethics, Privacy and Security in Artificial Intelligence (3 units)": {
+        "Lecture": {
+            "L01 (6366)": [
+                "Fr 09:00AM - 11:50AM",
+                "Rm 149, E1",
+                "HU, Xuming",
+                "50",
+                "0",
+                "50",
+                "0"
+            ],
+            "L02 (6367)": [
+                "Fr 01:30PM - 04:20PM",
+                "Rm 149, E1",
+                "HU, Xuming",
+                "50",
+                "0",
+                "50",
+                "0"
+            ]
+        }
+    },
+    "AIAA 3102 - Python Programming for Artificial Intelligence (3 units)": {
+        "Lecture": {
+            "L01 (6368)": [
+                "Th 09:00AM - 11:50AM",
+                "Rm 148, E1",
+                "QIN, Chengwei",
+                "50Quota/Enrol/AvailBEng (AI) Year 3 Students: 50/0/50",
+                "0",
+                "50",
+                "0"
+            ],
+            "L02 (6369)": [
+                "Tu 09:00AM - 11:50AM",
+                "Rm 148, E1",
+                "SHU, Yao",
+                "50Quota/Enrol/AvailBEng (AI) Year 3 Students: 50/0/50",
+                "0",
+                "50",
+                "0"
+            ]
+        }
+    },
+    "AIAA 3111 - Introduction to Data Mining (3 units)": {
+        "Lecture": {
+            "L01 (6370)": [
+                "Mo 06:00PM - 08:50PM",
+                "Rm 102, W1",
+                "CHEN, Jintai",
+                "50Quota/Enrol/AvailBEng (AI) Year 3 Students: 50/0/50",
+                "0",
+                "50",
+                "0"
+            ],
+            "L02 (6371)": [
+                "We 06:00PM - 08:50PM",
+                "Rm 102, W1",
+                "LIU, Hao",
+                "50Quota/Enrol/AvailBEng (AI) Year 3 Students: 50/0/50",
+                "0",
+                "50",
+                "0"
+            ]
+        }
+    },
+    "AIAA 3225 - Learning and Optimization for Artificial Intelligence (3 units)": {
+        "Lecture": {
+            "L01 (6399)": [
+                "Th 03:00PM - 05:50PM",
+                "Rm 122, E1",
+                "GONG, ZijunWANG, Xin",
+                "50Quota/Enrol/AvailBEng (AI) Year 3 Students: 50/0/50",
+                "0",
+                "50",
+                "0"
+            ],
+            "L02 (6400)": [
+                "Tu 06:00PM - 08:50PM",
+                "Rm 102, W4",
+                "GONG, ZijunWANG, Xin",
+                "50Quota/Enrol/AvailBEng (AI) Year 3 Students: 50/0/50",
+                "0",
+                "50",
+                "0"
+            ]
+        }
+    },
+    "AIAA 4220 - Introduction to Embodied AI (3 units)": {
+        "Lecture": {
+            "L01 (6679)": [
+                "Mo 01:30PM - 04:20PM",
+                "Rm 149, E1",
+                "LIANG, Junwei",
+                "50Quota/Enrol/AvailBEng (AI) Year 3 Students: 50/0/50",
+                "0",
+                "50",
+                "0"
+            ],
+            "L02 (6680)": [
+                "We 01:30PM - 04:20PM",
+                "Rm 149, E1",
+                "CHEN, Changhao",
+                "50Quota/Enrol/AvailBEng (AI) Year 3 Students: 50/0/50",
+                "0",
+                "50",
+                "0"
+            ]
+        }
+    },
+    "AIAA 5030 - Foundations of Data Mining (3 units)": {
+        "Lecture": {
+            "L01 (6001)": [
+                "We 09:00AM - 11:50AM",
+                "Rm 233, W1",
+                "YANG, Menglin",
+                "30Quota/Enrol/AvailPhD (AI): 20/0/20",
+                "0",
+                "30",
+                "0"
+            ]
+        }
+    },
+    "AIAA 5031 - Introduction to Computing Using Python (3 units)": {
+        "Lecture": {
+            "L01 (6002)": [
+                "Tu 09:00AM - 11:50AM",
+                "Rm 102, E4",
+                "CHEN, Huangxun",
+                "70Quota/Enrol/AvailPhD (AI): 30/0/30",
+                "0",
+                "70",
+                "0"
+            ]
+        }
+    },
+    "AIAA 5032 - Foundations of Artificial Intelligence (3 units)": {
+        "Lecture": {
+            "L01 (6003)": [
+                "Th 09:00AM - 11:50AM",
+                "Rm 233, W1",
+                "LIU, Li",
+                "40",
+                "0",
+                "40",
+                "0"
+            ]
+        }
+    },
+    "AIAA 5047 - Responsible Artificial Intelligence (3 units)": {
+        "Lecture": {
+            "L01 (6004)": [
+                "Fr 09:00AM - 11:50AM",
+                "Rm 233, W1",
+                "XIE, Sihong",
+                "30",
+                "0",
+                "30",
+                "0"
+            ]
+        }
+    },
+    "AIAA 5072 - Quantum Computing (3 units)": {
+        "Lecture": {
+            "L01 (6005)": [
+                "Mo 01:30PM - 04:20PM",
+                "Rm 223, W1",
+                "BAI, GeWANG, Xin",
+                "30Quota/Enrol/AvailPhD (AI): 15/0/15",
+                "0",
+                "30",
+                "0"
+            ]
+        }
+    },
+    "AIAA 5088 - Natural Language Processing and Its Applications (3 units)": {
+        "Lecture": {
+            "L01 (6006)": [
+                "Th 01:30PM - 04:20PM",
+                "Rm 202, W4",
+                "HU, Xuming",
+                "30Quota/Enrol/AvailPhD (AI): 30/0/30",
+                "0",
+                "30",
+                "0"
+            ]
+        }
+    },
+    "AIAA 6102 - Artificial Intelligence Seminar II (1 unit)": {
+        "Tutorial": {
+            "T01 (6007)": [
+                "Fr 01:30PM - 02:20PM",
+                "Rm 102, E4",
+                "DAI, Enyan",
+                "120",
+                "0",
+                "120",
+                "0"
+            ]
+        }
+    },
+    "AIAA 6990 - MPhil Thesis Research (0 units)": {
+        "Recitation": {
+            "R01 (6008)": [
+                "TBA",
+                "No room required",
+                "TBA",
+                "999",
+                "82",
+                "917",
+                "0"
+            ]
+        }
+    },
+    "AIAA 7990 - Doctoral Thesis Research (0 units)": {
+        "Recitation": {
+            "R01 (6010)": [
+                "TBA",
+                "No room required",
+                "TBA",
+                "999",
+                "22",
+                "977",
+                "0"
+            ]
+        }
+    }
+}
