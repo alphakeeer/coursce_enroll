@@ -23,13 +23,13 @@ def extract_course_info(pdf_path):
             
             # 确定当前页面所属的部分
             for line in lines:
-                if "Fundamental Courses" in line:
+                if "Fundamental" in line and line[-1]==")":
                     current_section = "Fundamental"
                     continue
-                elif "Major Required Courses" in line:
+                elif "Required" in line and line[-1]==")":
                     current_section = "Major Required"
                     continue
-                elif "Major Elective Courses" in line:
+                elif "Elective" in line and line[-1]==")":
                     current_section = "Major Elective"
                     continue
                 
@@ -91,6 +91,7 @@ if __name__ == "__main__":
     for pdf_file, output_csv in zip(pdf_files, output_csvs):
     
         courses = extract_course_info(pdf_file)
+        # 修补
         if pdf_file == "data/AI.pdf":
             courses.append({
                 'course_code': 'UFUG 2602',
@@ -98,13 +99,21 @@ if __name__ == "__main__":
                 'credits': '4',
                 'course_type': 'Fundamental'
             })
-        
+        if pdf_file == "data/DSBD.pdf":
+            for course in courses:
+                # 删去错误
+                if "orAIAA" in course["course_title"]:
+                    courses.remove(course)
+                # 改正
+                if "AA 2290" in course["course_code"]:
+                    course["course_code"] = course["course_code"].replace("AA 2290", "AIAA 2290")
+
         if courses:
             courses = sort_courses(courses)
             save_to_csv(courses, output_csv)
             
-            # 打印提取的课程信息
-            for course in courses:
-                print(f"{course['course_type']}: {course['course_code']} - {course['course_title']} ({course['credits']} credits)")
-        else:
-            print("未提取到任何课程信息")
+        #     # 打印提取的课程信息
+        #     for course in courses:
+        #         print(f"{course['course_type']}: {course['course_code']} - {course['course_title']} ({course['credits']} credits)")
+        # else:
+        #     print("未提取到任何课程信息")

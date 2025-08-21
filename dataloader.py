@@ -1,7 +1,7 @@
 from dataclasses import dataclass
 from typing import List,Dict
 import os
-import json
+import json,csv
 import re
 from datetime import datetime
 
@@ -42,16 +42,23 @@ class Major:
 
 class DataLoader:
     def __init__(self):
-        self.major=["AIAA","DLED","DSAA","SMMG","UCUG","UFUG"]
-        self.courses={
-            "AIAA": [],
-            "DLED": [],
-            "DSAA": [],
-            "SMMG": [],
-            "UCUG": [],
-            "UFUG": []
+        self.field=["AIAA","DLED","DSAA","SMMG","UCUG","UFUG"]
+        self.major={
+            "AI":{"Fundamental":[],"Major Required":[],"Major Elective":[]},
+            "DSBD":{"Fundamental":[],"Major Required":[],"Major Elective":[]},
+            "SMMG":{"Fundamental":[],"Major Required":[],"Major Elective":[]}
         }
-        for major in self.major:
+        self.courses={
+            "UFUG": {},
+            "UCUG": {},
+            "DLED": {},
+            "AIAA": {},
+            "DSAA": {},
+            "SMMG": {},
+        }
+        for field in self.field:
+            self.load_field_courses(field)
+        for major in self.major.keys():
             self.load_major_courses(major)
 
     def parse_time_string(self,s: str):
@@ -91,8 +98,9 @@ class DataLoader:
 
         return slots
 
-    def load_major_courses(self, major: str):
-        file_path = f"class/schedule_{major}.json"
+    # 加载专业课程详细信息
+    def load_field_courses(self, field: str):
+        file_path = f"class/schedule_{field}.json"
         if not os.path.exists(file_path):
             print(f"File not found: {file_path}")
             return
@@ -121,12 +129,24 @@ class DataLoader:
                         real_time=details[0]
                     )
                     course.sections.append(section)
-            self.courses[major].append(course)
+            self.courses[field][course_code[:9]] = course
 
+    # 加载专业所需课程
+    def load_major_courses(self, major: str):
+        file_path=f"class/require_{major}.csv"
+        if not os.path.exists(file_path):
+            print(f"File not found: {file_path}")
+            return
+
+        with open(file_path, "r", encoding="utf-8") as f:
+            reader = csv.reader(f)
+            next(reader)  # Skip header row
+            for row in reader:
+                if not row or len(row) < 4:
+                    continue
+                course_code,course_type = row[0],row[3]
+                self.major[major][course_type].append(course_code)
 
 if __name__ == "__main__":
     data_loader = DataLoader()
-    for major in data_loader.major:
-        data_loader.load_major_courses(major)
-        print(data_loader.courses[major])
-        print()
+    print(data_loader.courses)
