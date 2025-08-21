@@ -11,14 +11,25 @@ majors = data_loader.major # 专业的课程信息
 
 # ---------- Streamlit 页面 ----------
 st.set_page_config(layout="wide")
-st.title("📚 选课系统示例 (MVP)")
+st.title("💗 简单の选课系统")
+
+st.markdown("""
+- **✨ Made from Sato ✨**
+- 用途：用来预选查看课程时间是否冲突，方便决策  
+- 用法：左侧选择专业后，可在专业选择列表中查看该专业的选课要求，若未决定专业也可直接在下方总课程库中选择
+    可以通过再次点击课程or课程表来取消选择，记得顺带勾选lecture对应的tutorial/lab
+- 来源：课程信息来自[UCUG](https://w5.hkust-gz.edu.cn/wcq/cgi-bin/2510/subject/UCUG) 和 [VPTLO](https://vptlo.hkust-gz.edu.cn/ugeducation/#/UC#fourth)  
+- 目前只含三个专业，且未对课程日期方面（如晚开课或早结课）进行处理
+- 仅供参考，强烈建议各位正式选课前再多加确认  
+- Github 仓库：[alphakeeer/coursce_enroll](https://github.com/alphakeeer/coursce_enroll)  
+""")
 
 if "selected_sections" not in st.session_state:
     st.session_state.selected_sections = []
 
 # ---------- 选专业 ----------
-st.sidebar.header("选择专业")
-selected_major = st.sidebar.selectbox("选择专业", options=list(data_loader.major.keys()))
+st.sidebar.header("❤️ 选择专业")
+selected_major = st.sidebar.selectbox("❤️ 选择专业", options=list(data_loader.major.keys()))
 
 col1, col2 = st.columns([2,5])
 
@@ -44,7 +55,7 @@ def render_section_button(course, sec, source="", group=""):
     )
 
 with col1:
-    st.subheader("专业选课列表")
+    st.subheader("📕 专业选课列表")
     for course_type in majors[selected_major].keys():
         with st.expander(course_type):
             for course_code in majors[selected_major][course_type]:
@@ -57,7 +68,7 @@ with col1:
                     for sec in course.sections:
                         render_section_button(course, sec, source="major", group=course_type)
     
-    st.subheader("总课程库")
+    st.subheader("📚 总课程库")
     for major in courses:
         with st.expander(major):
             for course in courses[major].values():
@@ -167,6 +178,8 @@ with col2:
     # --- 已选课程面板（位于课表下方） ---
     st.subheader("✅ 已选课程")
     if st.session_state.selected_sections:
+        total_credits = sum(getattr(course, "credit", 0) for course, _ in st.session_state.selected_sections)
+        st.markdown(f"**总学分: {total_credits}**")
         for i, (course, sec) in enumerate(st.session_state.selected_sections):
             if st.button(f"{course.id} | {sec.id} | {sec.real_time} | {sec.instructor}", key=f"remove_{course.id}_{sec.id}"):
                 st.session_state.selected_sections.pop(i)
