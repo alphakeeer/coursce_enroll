@@ -35,7 +35,7 @@
 
 ## 🌍 在线体验
 部署在 Streamlit Cloud 上即可直接使用，链接示例：  
-👉 [Course Enroll Helper](https://share.streamlit.io/)
+👉 [Course Enroll Helper](https://schedule-enroll-system.streamlit.app/)
 
 ---
 
